@@ -1,0 +1,23 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1698511103
+icon.svg::CompressedTexture2D::6778734220887098566::1697909632::1697909642::1::::<><>::
+::res://assets/::1697910412
+alarm clock.ttf::FontFile::8258231494425367619::1697910412::1697910412::1::::<><>::
+ball.png::CompressedTexture2D::4608828286949026432::1697910412::1697910412::1::::<><>::
+middle-line.png::CompressedTexture2D::6719590675617711112::1697910412::1697910412::1::::<><>::
+paddle-blue.png::CompressedTexture2D::1658981221879514849::1697910412::1697910412::1::::<><>::
+paddle-red.png::CompressedTexture2D::7435897475400436584::1697910412::1697910412::1::::<><>::
+wall-horizontal.png::CompressedTexture2D::3377760540279208624::1697910412::1697910412::1::::<><>::
+wall-vertical.png::CompressedTexture2D::8402759140193359062::1697910412::1697910412::1::::<><>::
+::res://Ball/::1698348580
+Ball.gd::GDScript::-1::1698348407::0::1::::<>CharacterBody2D<>::
+Ball.tscn::PackedScene::8624895299481584141::1698348580::0::1::::<><>::uid://b6wsy1gb68c77::::res://assets/ball.png<>res://Ball/Ball.gd
+::res://Computer/::1698348580
+Computer.gd::GDScript::-1::1698348422::0::1::::<>CharacterBody2D<>::
+Computer.tscn::PackedScene::4731429183591766373::1698348580::0::1::::<><>::uid://dd7ae6v6ve8cq::::res://assets/paddle-red.png<>res://Computer/Computer.gd
+::res://Player/::1698348579
+Player.gd::GDScript::-1::1698068690::0::1::::<>CharacterBody2D<>::
+Player.tscn::PackedScene::1743848671915771811::1698348579::0::1::::<><>::uid://xvvgcfvy10nt::::res://assets/paddle-blue.png<>res://Player/Player.gd
+::res://Pong/::1698510468
+Pong.gd::GDScript::-1::1698086327::0::1::::<>Node2D<>::
+Pong.tscn::PackedScene::8006376052706374127::1698348580::0::1::::<><>::res://Pong/Pong.gd<>uid://y3y6ymu80xwd::::res://Player/Player.tscn<>uid://b8n67hf7n8w42::::res://Computer/Computer.tscn<>uid://du471a5ao0s58::::res://Ball/Ball.tscn<>uid://boehhtlejlloa::::res://assets/wall-horizontal.png<>uid://drymhk8ky2dwg::::res://assets/wall-vertical.png<>uid://c20axail1jdum::::res://assets/middle-line.png<>uid://dpwl4pj71kxup::::res://assets/alarm clock.ttf
